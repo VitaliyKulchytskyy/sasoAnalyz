@@ -1,0 +1,10 @@
+altgraph==0.17.4
+colour==0.1.5
+markdown-it-py==3.0.0
+mdurl==0.1.2
+numpy==1.26.3
+packaging==23.2
+Pygments==2.17.2
+pyinstaller==6.4.0
+pyinstaller-hooks-contrib==2024.1
+rich==13.7.0
